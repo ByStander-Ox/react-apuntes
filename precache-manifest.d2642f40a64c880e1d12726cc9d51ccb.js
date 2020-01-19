@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0778ef88d3f74ce7e4492498b4fc3996",
+    "revision": "f76311642403b8a93598fde37dd36b8c",
     "url": "/react-apuntes/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-apuntes/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "6bc352555c9ea0b16588",
-    "url": "/react-apuntes/static/css/main.98828d1a.chunk.css"
+    "revision": "cf01b8c881cb8f8dffa0",
+    "url": "/react-apuntes/static/css/main.7487f650.chunk.css"
   },
   {
     "revision": "49fbea931535419e1ea4",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-apuntes/static/js/2.f3758b46.chunk.js.LICENSE"
   },
   {
-    "revision": "6bc352555c9ea0b16588",
-    "url": "/react-apuntes/static/js/main.90c8c9f3.chunk.js"
+    "revision": "cf01b8c881cb8f8dffa0",
+    "url": "/react-apuntes/static/js/main.1902158d.chunk.js"
   },
   {
     "revision": "0efb5312115cfc044e94",
